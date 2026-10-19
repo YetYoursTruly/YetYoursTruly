@@ -8,8 +8,8 @@
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rykerpierce296-prog&theme=github_dark&layout=compact)](https://github.com/YetYoursTruly)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YetYoursTruly&theme=github_dark&layout=compact)](https://github.com/YetYoursTruly)
 
-**Programming for 4 years**
+**Programming for 5 years**
 
 </div>
